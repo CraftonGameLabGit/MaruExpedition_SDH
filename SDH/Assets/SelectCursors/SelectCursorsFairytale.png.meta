@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 983c08a6f9e3ac644ad27f3f81f408a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2793881119220455919
+    second: SelectCursorsFairytale_0
+  - first:
+      213: 4351053588687326858
+    second: SelectCursorsFairytale_1
+  - first:
+      213: -498502529230410774
+    second: SelectCursorsFairytale_2
+  - first:
+      213: -1481661127608376280
+    second: SelectCursorsFairytale_3
+  - first:
+      213: -2581204247754989163
+    second: SelectCursorsFairytale_4
+  - first:
+      213: 5677730640352482399
+    second: SelectCursorsFairytale_5
+  - first:
+      213: 669037348085364897
+    second: SelectCursorsFairytale_6
+  - first:
+      213: 46615618462789583
+    second: SelectCursorsFairytale_7
+  - first:
+      213: -8245906452063737832
+    second: SelectCursorsFairytale_8
+  - first:
+      213: -8217397420093034016
+    second: SelectCursorsFairytale_9
+  - first:
+      213: 1979276375138861789
+    second: SelectCursorsFairytale_10
+  - first:
+      213: 2211926044369627790
+    second: SelectCursorsFairytale_11
+  - first:
+      213: 296694436348910327
+    second: SelectCursorsFairytale_12
+  - first:
+      213: 5541482866763913321
+    second: SelectCursorsFairytale_13
+  - first:
+      213: -2640300635212374159
+    second: SelectCursorsFairytale_14
+  - first:
+      213: 5416635767971943744
+    second: SelectCursorsFairytale_15
+  - first:
+      213: -8341031350706363334
+    second: SelectCursorsFairytale_16
+  - first:
+      213: 4462444712260340693
+    second: SelectCursorsFairytale_17
+  - first:
+      213: -8875019288699664656
+    second: SelectCursorsFairytale_18
+  - first:
+      213: 6927954034955315550
+    second: SelectCursorsFairytale_19
+  - first:
+      213: -4255637964037711294
+    second: SelectCursorsFairytale_20
+  - first:
+      213: 9140410009811549460
+    second: SelectCursorsFairytale_21
+  - first:
+      213: 1731828729820719726
+    second: SelectCursorsFairytale_22
+  - first:
+      213: 4378717033603278373
+    second: SelectCursorsFairytale_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SelectCursorsFairytale_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116a138bce32a39d0800000000000000
+      internalID: -2793881119220455919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsFairytale_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e8560af2c026c30800000000000000
+      internalID: 4351053588687326858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsFairytale_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb66914796f419f0800000000000000
+      internalID: -498502529230410774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsFairytale_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e56bfd05107be0800000000000000
+      internalID: -1481661127608376280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsFairytale_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591a5d79968bd2cd0800000000000000
+      internalID: -2581204247754989163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsFairytale_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f549f8c7fe95bce40800000000000000
+      internalID: 5677730640352482399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 72d63940313b72c45843d0e2e1560f73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SelectCursorsFairytale_0: -2793881119220455919
+      SelectCursorsFairytale_1: 4351053588687326858
+      SelectCursorsFairytale_2: -498502529230410774
+      SelectCursorsFairytale_3: -1481661127608376280
+      SelectCursorsFairytale_4: -2581204247754989163
+      SelectCursorsFairytale_5: 5677730640352482399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

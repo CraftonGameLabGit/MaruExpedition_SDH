@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: d58fd5a1149bd8248ae71e473ab38999
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -669866821528177396
+    second: SelectCursors_0
+  - first:
+      213: 6758031360198863062
+    second: SelectCursors_1
+  - first:
+      213: -5691068602022389943
+    second: SelectCursors_2
+  - first:
+      213: -8067931039300452598
+    second: SelectCursors_3
+  - first:
+      213: 966901139795415795
+    second: SelectCursors_4
+  - first:
+      213: 1315713080254304966
+    second: SelectCursors_5
+  - first:
+      213: -1567313649764708382
+    second: SelectCursors_6
+  - first:
+      213: 6236956893177234032
+    second: SelectCursors_7
+  - first:
+      213: 8450892285212322724
+    second: SelectCursors_8
+  - first:
+      213: -4091117112851563857
+    second: SelectCursors_9
+  - first:
+      213: 6187176835305037766
+    second: SelectCursors_10
+  - first:
+      213: -2214364583847004690
+    second: SelectCursors_11
+  - first:
+      213: 2874885715117257384
+    second: SelectCursors_12
+  - first:
+      213: 6036887197824477446
+    second: SelectCursors_13
+  - first:
+      213: -2675421787167777327
+    second: SelectCursors_14
+  - first:
+      213: -8674734040232154428
+    second: SelectCursors_15
+  - first:
+      213: 9055415413653651494
+    second: SelectCursors_16
+  - first:
+      213: -7565502728749592277
+    second: SelectCursors_17
+  - first:
+      213: -3494910076671961850
+    second: SelectCursors_18
+  - first:
+      213: -7029174053183882941
+    second: SelectCursors_19
+  - first:
+      213: -526587941887893100
+    second: SelectCursors_20
+  - first:
+      213: -2979521189046701669
+    second: SelectCursors_21
+  - first:
+      213: 5471481923829152482
+    second: SelectCursors_22
+  - first:
+      213: -5559232120523085085
+    second: SelectCursors_23
+  - first:
+      213: 4115049552814369509
+    second: SelectCursors_24
+  - first:
+      213: -1188058211356742188
+    second: SelectCursors_25
+  - first:
+      213: 5183709391171346417
+    second: SelectCursors_26
+  - first:
+      213: -908784490440618503
+    second: SelectCursors_27
+  - first:
+      213: 7341209298579976313
+    second: SelectCursors_28
+  - first:
+      213: 2238415933361556401
+    second: SelectCursors_29
+  - first:
+      213: 8435681177743450390
+    second: SelectCursors_30
+  - first:
+      213: 5147810167665176674
+    second: SelectCursors_31
+  - first:
+      213: 156263044754178260
+    second: SelectCursors_32
+  - first:
+      213: -7073948911149198137
+    second: SelectCursors_33
+  - first:
+      213: 6240459296720470254
+    second: SelectCursors_34
+  - first:
+      213: 7215159547074339163
+    second: SelectCursors_35
+  - first:
+      213: 7551536217158153943
+    second: SelectCursors_36
+  - first:
+      213: -6165442877168884926
+    second: SelectCursors_37
+  - first:
+      213: -8233910268453256361
+    second: SelectCursors_38
+  - first:
+      213: -326948422790586935
+    second: SelectCursors_39
+  - first:
+      213: -8517999158639552261
+    second: SelectCursors_40
+  - first:
+      213: -3000232486509510282
+    second: SelectCursors_41
+  - first:
+      213: 83154660972059796
+    second: SelectCursors_42
+  - first:
+      213: 2419255397823754935
+    second: SelectCursors_43
+  - first:
+      213: -9207289149953978505
+    second: SelectCursors_44
+  - first:
+      213: -3720254973043766237
+    second: SelectCursors_45
+  - first:
+      213: 8869352965661992502
+    second: SelectCursors_46
+  - first:
+      213: -3391617503511209108
+    second: SelectCursors_47
+  - first:
+      213: -2461068577845590229
+    second: SelectCursors_48
+  - first:
+      213: -5260537165422248977
+    second: SelectCursors_49
+  - first:
+      213: -1670197155730696944
+    second: SelectCursors_50
+  - first:
+      213: 730703520124182410
+    second: SelectCursors_51
+  - first:
+      213: 2698651554675802316
+    second: SelectCursors_52
+  - first:
+      213: -3027927544863667415
+    second: SelectCursors_53
+  - first:
+      213: -7933750604336195814
+    second: SelectCursors_54
+  - first:
+      213: 2374899028771334755
+    second: SelectCursors_55
+  - first:
+      213: 5876378774753930381
+    second: SelectCursors_56
+  - first:
+      213: 546841047759503978
+    second: SelectCursors_57
+  - first:
+      213: 3420713194463618350
+    second: SelectCursors_58
+  - first:
+      213: 1851753570047643692
+    second: SelectCursors_59
+  - first:
+      213: -6037093421605188477
+    second: SelectCursors_60
+  - first:
+      213: -3230856858142796604
+    second: SelectCursors_61
+  - first:
+      213: -3936046743616377440
+    second: SelectCursors_62
+  - first:
+      213: -5299565488729190659
+    second: SelectCursors_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SelectCursorsCozy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487cd79c5259f5942ad70058c8bbf049
+      internalID: -669866821528177396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 224
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0716af702032db47aac9ecaeebe0f4d
+      internalID: 6758031360198863062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecec88721b0a674a8471f2e102e06dd
+      internalID: -5691068602022389943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7fc214eb039d24c9a066e1488d8ba8
+      internalID: -8067931039300452598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abd3c711c8df5c45a55694db9abd149
+      internalID: 966901139795415795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 160
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7167ce245b7254796ad695a7690701
+      internalID: 1315713080254304966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275f638b05b66d428ecb73422ca5e91
+      internalID: -1567313649764708382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d394b9d85fe55e459230edfe247be83
+      internalID: 6236956893177234032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e9a5790abc2e94887311456f0ec797
+      internalID: 8450892285212322724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc3474d3bb3d8944b71b663002557b1
+      internalID: -4091117112851563857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce5efadd821c80439976ad932c81954
+      internalID: 6187176835305037766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6377e83b4f5c4caa8c497f08919fc
+      internalID: -2214364583847004690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a116c8495ce6e14c91e539c11175b2f
+      internalID: 2874885715117257384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75df8d29ea856aa459be734f070bcb62
+      internalID: 6036887197824477446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13faf08f00a04045a218c03384d8a34
+      internalID: -2675421787167777327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsCozy_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6d8683f85c254b97e79b6eff8da92
+      internalID: -8674734040232154428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 20af866816d850e4faf7fc858e40c0be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SelectCursorsCozy_0: -669866821528177396
+      SelectCursorsCozy_1: 6758031360198863062
+      SelectCursorsCozy_10: 6187176835305037766
+      SelectCursorsCozy_11: -2214364583847004690
+      SelectCursorsCozy_12: 2874885715117257384
+      SelectCursorsCozy_13: 6036887197824477446
+      SelectCursorsCozy_14: -2675421787167777327
+      SelectCursorsCozy_15: -8674734040232154428
+      SelectCursorsCozy_2: -5691068602022389943
+      SelectCursorsCozy_3: -8067931039300452598
+      SelectCursorsCozy_4: 966901139795415795
+      SelectCursorsCozy_5: 1315713080254304966
+      SelectCursorsCozy_6: -1567313649764708382
+      SelectCursorsCozy_7: 6236956893177234032
+      SelectCursorsCozy_8: 8450892285212322724
+      SelectCursorsCozy_9: -4091117112851563857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

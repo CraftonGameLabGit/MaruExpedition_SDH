@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: a8f797ee7718c8d439b61ece8836e269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7790536082518766736
+    second: SelectCursorsHorror_0
+  - first:
+      213: -5572077046720194367
+    second: SelectCursorsHorror_1
+  - first:
+      213: 2739938929756112672
+    second: SelectCursorsHorror_2
+  - first:
+      213: -5271078541872477931
+    second: SelectCursorsHorror_3
+  - first:
+      213: 6168638049355854066
+    second: SelectCursorsHorror_4
+  - first:
+      213: -5821640245227740930
+    second: SelectCursorsHorror_5
+  - first:
+      213: 4908808411965282846
+    second: SelectCursorsHorror_6
+  - first:
+      213: 2284427723953567423
+    second: SelectCursorsHorror_7
+  - first:
+      213: 5382729248538393764
+    second: SelectCursorsHorror_8
+  - first:
+      213: -4909911702708184369
+    second: SelectCursorsHorror_9
+  - first:
+      213: -4905424329980274075
+    second: SelectCursorsHorror_10
+  - first:
+      213: -4028743278386875829
+    second: SelectCursorsHorror_11
+  - first:
+      213: 7951148696877100376
+    second: SelectCursorsHorror_12
+  - first:
+      213: -5497797411837819173
+    second: SelectCursorsHorror_13
+  - first:
+      213: 837747704747599211
+    second: SelectCursorsHorror_14
+  - first:
+      213: 8836934016573008972
+    second: SelectCursorsHorror_15
+  - first:
+      213: 6283492007063168684
+    second: SelectCursorsHorror_16
+  - first:
+      213: -6745820503152355924
+    second: SelectCursorsHorror_17
+  - first:
+      213: -3037857849456269459
+    second: SelectCursorsHorror_18
+  - first:
+      213: 2776898504228129906
+    second: SelectCursorsHorror_19
+  - first:
+      213: -587416695254110974
+    second: SelectCursorsHorror_20
+  - first:
+      213: 3549728142726515814
+    second: SelectCursorsHorror_21
+  - first:
+      213: -7545835587409512953
+    second: SelectCursorsHorror_22
+  - first:
+      213: 9080532827296756881
+    second: SelectCursorsHorror_23
+  - first:
+      213: 5511620559370707784
+    second: SelectCursorsHorror_24
+  - first:
+      213: 5941324180761451527
+    second: SelectCursorsHorror_25
+  - first:
+      213: 3378744752865632298
+    second: SelectCursorsHorror_26
+  - first:
+      213: -8414341281788439250
+    second: SelectCursorsHorror_27
+  - first:
+      213: 7843445886608215033
+    second: SelectCursorsHorror_28
+  - first:
+      213: -2911973275572236679
+    second: SelectCursorsHorror_29
+  - first:
+      213: 4521574211928043234
+    second: SelectCursorsHorror_30
+  - first:
+      213: 5601937022264017847
+    second: SelectCursorsHorror_31
+  - first:
+      213: 330306221732018900
+    second: SelectCursorsHorror_32
+  - first:
+      213: -3769745523116709292
+    second: SelectCursorsHorror_33
+  - first:
+      213: 4886771567179999169
+    second: SelectCursorsHorror_34
+  - first:
+      213: 7903058187823537912
+    second: SelectCursorsHorror_35
+  - first:
+      213: -7952502623957937941
+    second: SelectCursorsHorror_36
+  - first:
+      213: 5292925514308149958
+    second: SelectCursorsHorror_37
+  - first:
+      213: 294481478315520650
+    second: SelectCursorsHorror_38
+  - first:
+      213: -5976582538738799334
+    second: SelectCursorsHorror_39
+  - first:
+      213: -2681187955431831646
+    second: SelectCursorsHorror_40
+  - first:
+      213: -3527124230355382035
+    second: SelectCursorsHorror_41
+  - first:
+      213: -4954840216499765285
+    second: SelectCursorsHorror_42
+  - first:
+      213: 8233380342516053674
+    second: SelectCursorsHorror_43
+  - first:
+      213: -8909174299938282914
+    second: SelectCursorsHorror_44
+  - first:
+      213: -3342773691193208056
+    second: SelectCursorsHorror_45
+  - first:
+      213: -5258669134880455568
+    second: SelectCursorsHorror_46
+  - first:
+      213: -5301433731591786310
+    second: SelectCursorsHorror_47
+  - first:
+      213: -5658151090048681310
+    second: SelectCursorsHorror_48
+  - first:
+      213: -815641530036555796
+    second: SelectCursorsHorror_49
+  - first:
+      213: 4962651493492877197
+    second: SelectCursorsHorror_50
+  - first:
+      213: 1777339077862125348
+    second: SelectCursorsHorror_51
+  - first:
+      213: 376540553334355823
+    second: SelectCursorsHorror_52
+  - first:
+      213: -1556262501085430846
+    second: SelectCursorsHorror_53
+  - first:
+      213: -4559214319636635462
+    second: SelectCursorsHorror_54
+  - first:
+      213: -798227861466115256
+    second: SelectCursorsHorror_55
+  - first:
+      213: 8046503986372221343
+    second: SelectCursorsHorror_56
+  - first:
+      213: 7652105394952150546
+    second: SelectCursorsHorror_57
+  - first:
+      213: -657414168412748538
+    second: SelectCursorsHorror_58
+  - first:
+      213: 8573410696694140132
+    second: SelectCursorsHorror_59
+  - first:
+      213: -4449778936010215596
+    second: SelectCursorsHorror_60
+  - first:
+      213: 2210379376060377640
+    second: SelectCursorsHorror_61
+  - first:
+      213: 8527432584050028369
+    second: SelectCursorsHorror_62
+  - first:
+      213: 5087399887800512514
+    second: SelectCursorsHorror_63
+  - first:
+      213: -1511501368872335418
+    second: SelectCursorsHorror_64
+  - first:
+      213: 1068432423831112059
+    second: SelectCursorsHorror_65
+  - first:
+      213: 1391595580348951965
+    second: SelectCursorsHorror_66
+  - first:
+      213: -3400493355029957916
+    second: SelectCursorsHorror_67
+  - first:
+      213: 2772361086248998185
+    second: SelectCursorsHorror_68
+  - first:
+      213: -3390759754565521281
+    second: SelectCursorsHorror_69
+  - first:
+      213: 5676418702765873806
+    second: SelectCursorsHorror_70
+  - first:
+      213: -6443210488613193403
+    second: SelectCursorsHorror_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SelectCursorsHorror_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b0b9f75b472e390800000000000000
+      internalID: -7790536082518766736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c89229b2710ca2b0800000000000000
+      internalID: -5572077046720194367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027806690f7360620800000000000000
+      internalID: 2739938929756112672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519c1885efd59d6b0800000000000000
+      internalID: -5271078541872477931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f070df7f976b9550800000000000000
+      internalID: 6168638049355854066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef025159a01653fa0800000000000000
+      internalID: -5821640245227740930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ad3a12e379f1440800000000000000
+      internalID: 4908808411965282846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb67e4959eae3bf10800000000000000
+      internalID: 2284427723953567423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac7c3d8bbb43ba40800000000000000
+      internalID: 5382729248538393764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca9b89f15d7cdbb0800000000000000
+      internalID: -4909911702708184369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a97fadf8e6cebb0800000000000000
+      internalID: -4905424329980274075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42f18065570718c0800000000000000
+      internalID: -4028743278386875829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d6ba1ec97285e60800000000000000
+      internalID: 7951148696877100376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6485ce166e3b3b0800000000000000
+      internalID: -5497797411837819173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6521e0591740ab00800000000000000
+      internalID: 837747704747599211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c66610ba813aa70800000000000000
+      internalID: 8836934016573008972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a10660b2733750800000000000000
+      internalID: 6283492007063168684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsHorror_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca59e074ef70262a0800000000000000
+      internalID: -6745820503152355924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd360ad771f8dc448a97f1c275b9b457
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SelectCursorsHorror_0: -7790536082518766736
+      SelectCursorsHorror_1: -5572077046720194367
+      SelectCursorsHorror_10: -4905424329980274075
+      SelectCursorsHorror_11: -4028743278386875829
+      SelectCursorsHorror_12: 7951148696877100376
+      SelectCursorsHorror_13: -5497797411837819173
+      SelectCursorsHorror_14: 837747704747599211
+      SelectCursorsHorror_15: 8836934016573008972
+      SelectCursorsHorror_16: 6283492007063168684
+      SelectCursorsHorror_17: -6745820503152355924
+      SelectCursorsHorror_2: 2739938929756112672
+      SelectCursorsHorror_3: -5271078541872477931
+      SelectCursorsHorror_4: 6168638049355854066
+      SelectCursorsHorror_5: -5821640245227740930
+      SelectCursorsHorror_6: 4908808411965282846
+      SelectCursorsHorror_7: 2284427723953567423
+      SelectCursorsHorror_8: 5382729248538393764
+      SelectCursorsHorror_9: -4909911702708184369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

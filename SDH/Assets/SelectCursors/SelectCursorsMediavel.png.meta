@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 036bc5b724ab8e74ab5ce38681cc62f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4145183968092572688
+    second: SelectCursorsMediavel_0
+  - first:
+      213: -7410480182493821152
+    second: SelectCursorsMediavel_1
+  - first:
+      213: 8472603310952196336
+    second: SelectCursorsMediavel_2
+  - first:
+      213: 1955159715472830991
+    second: SelectCursorsMediavel_3
+  - first:
+      213: 8901423535433652845
+    second: SelectCursorsMediavel_4
+  - first:
+      213: 3290862424508815553
+    second: SelectCursorsMediavel_5
+  - first:
+      213: -2002159627039083983
+    second: SelectCursorsMediavel_6
+  - first:
+      213: 4960392040032690594
+    second: SelectCursorsMediavel_7
+  - first:
+      213: 8469406138865686372
+    second: SelectCursorsMediavel_8
+  - first:
+      213: -5328261174498645446
+    second: SelectCursorsMediavel_9
+  - first:
+      213: 3142900666489780236
+    second: SelectCursorsMediavel_10
+  - first:
+      213: 1586668884834804060
+    second: SelectCursorsMediavel_11
+  - first:
+      213: -4973332080341610983
+    second: SelectCursorsMediavel_12
+  - first:
+      213: 1284254847883037777
+    second: SelectCursorsMediavel_13
+  - first:
+      213: 3964497330147622172
+    second: SelectCursorsMediavel_14
+  - first:
+      213: 7606823307308106464
+    second: SelectCursorsMediavel_15
+  - first:
+      213: 4459629568572234181
+    second: SelectCursorsMediavel_16
+  - first:
+      213: 8113463860347019869
+    second: SelectCursorsMediavel_17
+  - first:
+      213: 4803770210215846158
+    second: SelectCursorsMediavel_18
+  - first:
+      213: 3335996896445084397
+    second: SelectCursorsMediavel_19
+  - first:
+      213: 656039969743041514
+    second: SelectCursorsMediavel_20
+  - first:
+      213: 1163854960687658398
+    second: SelectCursorsMediavel_21
+  - first:
+      213: 2987545644831465316
+    second: SelectCursorsMediavel_22
+  - first:
+      213: -4389625796759649119
+    second: SelectCursorsMediavel_23
+  - first:
+      213: -7835359929008692312
+    second: SelectCursorsMediavel_24
+  - first:
+      213: -6481249613616094157
+    second: SelectCursorsMediavel_25
+  - first:
+      213: 2625192093686402188
+    second: SelectCursorsMediavel_26
+  - first:
+      213: -5292802796333531290
+    second: SelectCursorsMediavel_27
+  - first:
+      213: 7077351288585387413
+    second: SelectCursorsMediavel_28
+  - first:
+      213: 5698557704416227394
+    second: SelectCursorsMediavel_29
+  - first:
+      213: -8453434699658909826
+    second: SelectCursorsMediavel_30
+  - first:
+      213: 8407702825534622726
+    second: SelectCursorsMediavel_31
+  - first:
+      213: -6657388196247725584
+    second: SelectCursorsMediavel_32
+  - first:
+      213: 6247397845680529057
+    second: SelectCursorsMediavel_33
+  - first:
+      213: -704920688913257461
+    second: SelectCursorsMediavel_34
+  - first:
+      213: -7567770744050591012
+    second: SelectCursorsMediavel_35
+  - first:
+      213: 5395909206092536591
+    second: SelectCursorsMediavel_36
+  - first:
+      213: 6674541789647367398
+    second: SelectCursorsMediavel_37
+  - first:
+      213: 5686456072013915121
+    second: SelectCursorsMediavel_38
+  - first:
+      213: 8103662080685398218
+    second: SelectCursorsMediavel_39
+  - first:
+      213: 6167094501877065802
+    second: SelectCursorsMediavel_40
+  - first:
+      213: -6912538296584118942
+    second: SelectCursorsMediavel_41
+  - first:
+      213: -4356460120456032207
+    second: SelectCursorsMediavel_42
+  - first:
+      213: 137723812565958972
+    second: SelectCursorsMediavel_43
+  - first:
+      213: 69150095405747668
+    second: SelectCursorsMediavel_44
+  - first:
+      213: 6842213702075377493
+    second: SelectCursorsMediavel_45
+  - first:
+      213: -3680501978835752356
+    second: SelectCursorsMediavel_46
+  - first:
+      213: 880609187795751774
+    second: SelectCursorsMediavel_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c4dca5bd6a68930800000000000000
+      internalID: 4145183968092572688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0274263598fa82990800000000000000
+      internalID: -7410480182493821152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8aa1052dbb49570800000000000000
+      internalID: 8472603310952196336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0279eff66f122b10800000000000000
+      internalID: 1955159715472830991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a13d03b85388b70800000000000000
+      internalID: 8901423535433652845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8578970fd7bad20800000000000000
+      internalID: 3290862424508815553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132f4b65d66e634e0800000000000000
+      internalID: -2002159627039083983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1e2d4774ad6d440800000000000000
+      internalID: 4960392040032690594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4671a9da200698570800000000000000
+      internalID: 8469406138865686372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aa08f21b63e06b0800000000000000
+      internalID: -5328261174498645446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08367e1183dd9b20800000000000000
+      internalID: 3142900666489780236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsMediavel_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c516eb8b1faf40610800000000000000
+      internalID: 1586668884834804060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 194571fe3d1c1414fa09256ba4fbc3ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SelectCursorsMediavel_0: 4145183968092572688
+      SelectCursorsMediavel_1: -7410480182493821152
+      SelectCursorsMediavel_10: 3142900666489780236
+      SelectCursorsMediavel_11: 1586668884834804060
+      SelectCursorsMediavel_2: 8472603310952196336
+      SelectCursorsMediavel_3: 1955159715472830991
+      SelectCursorsMediavel_4: 8901423535433652845
+      SelectCursorsMediavel_5: 3290862424508815553
+      SelectCursorsMediavel_6: -2002159627039083983
+      SelectCursorsMediavel_7: 4960392040032690594
+      SelectCursorsMediavel_8: 8469406138865686372
+      SelectCursorsMediavel_9: -5328261174498645446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

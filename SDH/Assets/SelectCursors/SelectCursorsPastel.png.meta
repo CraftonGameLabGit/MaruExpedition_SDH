@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: cf0b45adcb1292a438608027f93582ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 393849072745037728
+    second: SelectCursorsPastel_0
+  - first:
+      213: 7480262455110041415
+    second: SelectCursorsPastel_1
+  - first:
+      213: -7883971487085495124
+    second: SelectCursorsPastel_2
+  - first:
+      213: -6941612065853398119
+    second: SelectCursorsPastel_3
+  - first:
+      213: -7215390935226126278
+    second: SelectCursorsPastel_4
+  - first:
+      213: 1314971735368102859
+    second: SelectCursorsPastel_5
+  - first:
+      213: -2831797814801007247
+    second: SelectCursorsPastel_6
+  - first:
+      213: 4698475514235992443
+    second: SelectCursorsPastel_7
+  - first:
+      213: -6375831311173415089
+    second: SelectCursorsPastel_8
+  - first:
+      213: 8090547506105703756
+    second: SelectCursorsPastel_9
+  - first:
+      213: -5017977447223249139
+    second: SelectCursorsPastel_10
+  - first:
+      213: -7707593378284864630
+    second: SelectCursorsPastel_11
+  - first:
+      213: 196799326594173731
+    second: SelectCursorsPastel_12
+  - first:
+      213: 8801920617965065392
+    second: SelectCursorsPastel_13
+  - first:
+      213: -2223680721737627209
+    second: SelectCursorsPastel_14
+  - first:
+      213: -9132303192532111911
+    second: SelectCursorsPastel_15
+  - first:
+      213: -7393387129735876943
+    second: SelectCursorsPastel_16
+  - first:
+      213: -3242344335411822667
+    second: SelectCursorsPastel_17
+  - first:
+      213: 7203602326955813697
+    second: SelectCursorsPastel_18
+  - first:
+      213: 8569235711679508699
+    second: SelectCursorsPastel_19
+  - first:
+      213: -6279852729867151425
+    second: SelectCursorsPastel_20
+  - first:
+      213: -617876176749730929
+    second: SelectCursorsPastel_21
+  - first:
+      213: 8334323389088129552
+    second: SelectCursorsPastel_22
+  - first:
+      213: -5637821522122449268
+    second: SelectCursorsPastel_23
+  - first:
+      213: 7740817057198191952
+    second: SelectCursorsPastel_24
+  - first:
+      213: 873063860216135192
+    second: SelectCursorsPastel_25
+  - first:
+      213: -9088235855573525725
+    second: SelectCursorsPastel_26
+  - first:
+      213: 8210411073742516880
+    second: SelectCursorsPastel_27
+  - first:
+      213: -7885555695561241839
+    second: SelectCursorsPastel_28
+  - first:
+      213: -8754855688780658520
+    second: SelectCursorsPastel_29
+  - first:
+      213: -305318232329876530
+    second: SelectCursorsPastel_30
+  - first:
+      213: -8302994671442639375
+    second: SelectCursorsPastel_31
+  - first:
+      213: -5231693661504895255
+    second: SelectCursorsPastel_32
+  - first:
+      213: -586971882926718893
+    second: SelectCursorsPastel_33
+  - first:
+      213: 6419726276618569571
+    second: SelectCursorsPastel_34
+  - first:
+      213: 1131404632479241979
+    second: SelectCursorsPastel_35
+  - first:
+      213: -3094078978365536847
+    second: SelectCursorsPastel_36
+  - first:
+      213: -194415719903563115
+    second: SelectCursorsPastel_37
+  - first:
+      213: 9177337398837632101
+    second: SelectCursorsPastel_38
+  - first:
+      213: 3780651707426907854
+    second: SelectCursorsPastel_39
+  - first:
+      213: -198838260979366849
+    second: SelectCursorsPastel_40
+  - first:
+      213: -5139570011039393985
+    second: SelectCursorsPastel_41
+  - first:
+      213: 1385644153804882745
+    second: SelectCursorsPastel_42
+  - first:
+      213: -2149588077594719434
+    second: SelectCursorsPastel_43
+  - first:
+      213: -2435828212152775490
+    second: SelectCursorsPastel_44
+  - first:
+      213: 688065848627958446
+    second: SelectCursorsPastel_45
+  - first:
+      213: -3417368336839026769
+    second: SelectCursorsPastel_46
+  - first:
+      213: 1028021594993890348
+    second: SelectCursorsPastel_47
+  - first:
+      213: -3098841631107091654
+    second: SelectCursorsPastel_48
+  - first:
+      213: 9083952122389377908
+    second: SelectCursorsPastel_49
+  - first:
+      213: -6774836749361496453
+    second: SelectCursorsPastel_50
+  - first:
+      213: -4745732509109089288
+    second: SelectCursorsPastel_51
+  - first:
+      213: -6810789551486501824
+    second: SelectCursorsPastel_52
+  - first:
+      213: -175241507045102060
+    second: SelectCursorsPastel_53
+  - first:
+      213: 8897605960448861673
+    second: SelectCursorsPastel_54
+  - first:
+      213: -4009502288097052709
+    second: SelectCursorsPastel_55
+  - first:
+      213: 1219561213039463784
+    second: SelectCursorsPastel_56
+  - first:
+      213: -5408353798479978935
+    second: SelectCursorsPastel_57
+  - first:
+      213: 6798038876481666675
+    second: SelectCursorsPastel_58
+  - first:
+      213: 8875506717205638773
+    second: SelectCursorsPastel_59
+  - first:
+      213: -278884800380614574
+    second: SelectCursorsPastel_60
+  - first:
+      213: 5781662826245362274
+    second: SelectCursorsPastel_61
+  - first:
+      213: -2846201723251336743
+    second: SelectCursorsPastel_62
+  - first:
+      213: -5487056610869934124
+    second: SelectCursorsPastel_63
+  - first:
+      213: -5629500707815928108
+    second: SelectCursorsPastel_64
+  - first:
+      213: -8411965074340877945
+    second: SelectCursorsPastel_65
+  - first:
+      213: 1865137789883626238
+    second: SelectCursorsPastel_66
+  - first:
+      213: 1727393517405462467
+    second: SelectCursorsPastel_67
+  - first:
+      213: -334656007550359645
+    second: SelectCursorsPastel_68
+  - first:
+      213: 5250044711831440333
+    second: SelectCursorsPastel_69
+  - first:
+      213: 1143611354896450891
+    second: SelectCursorsPastel_70
+  - first:
+      213: -8070547200322038812
+    second: SelectCursorsPastel_71
+  - first:
+      213: -5427276144814676268
+    second: SelectCursorsPastel_72
+  - first:
+      213: -6890480171982714137
+    second: SelectCursorsPastel_73
+  - first:
+      213: -8295470888140168888
+    second: SelectCursorsPastel_74
+  - first:
+      213: -3098552779859955707
+    second: SelectCursorsPastel_75
+  - first:
+      213: -6238545073444075065
+    second: SelectCursorsPastel_76
+  - first:
+      213: 3596229253448187996
+    second: SelectCursorsPastel_77
+  - first:
+      213: -1071952010026559781
+    second: SelectCursorsPastel_78
+  - first:
+      213: -1049153957996006781
+    second: SelectCursorsPastel_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SelectCursorsPastel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb51c15ab377500800000000000000
+      internalID: 393849072745037728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 287
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f768f121b3fc760800000000000000
+      internalID: 7480262455110041415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacf5fc14b1869290800000000000000
+      internalID: -7883971487085495124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 255
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9932e36ba907aaf90800000000000000
+      internalID: -6941612065853398119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30f5465c28cddb90800000000000000
+      internalID: -7215390935226126278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 224
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc37b4883d7bf3210800000000000000
+      internalID: 1314971735368102859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dfe0514ee63b8d0800000000000000
+      internalID: -2831797814801007247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 192
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7938eb2696543140800000000000000
+      internalID: 4698475514235992443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f02bdf33f7487a0800000000000000
+      internalID: -6375831311173415089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 159
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d5adb5716674070800000000000000
+      internalID: 8090547506105703756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07365f19109c5ab0800000000000000
+      internalID: -5017977447223249139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 127
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b7d26b8a0290590800000000000000
+      internalID: -7707593378284864630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b8ea1e1fb2bb200800000000000000
+      internalID: 196799326594173731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 95
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b49efeda24b62a70800000000000000
+      internalID: 8801920617965065392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9c1f64a26e321e0800000000000000
+      internalID: -2223680721737627209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 63
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd25f3a1aa834180800000000000000
+      internalID: -9132303192532111911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bee52dc399656990800000000000000
+      internalID: -7393387129735876943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 31
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf37407101e003d0800000000000000
+      internalID: -3242344335411822667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14be069662658f360800000000000000
+      internalID: 7203602326955813697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsPastel_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0bf3f5a7a0ce670800000000000000
+      internalID: 8569235711679508699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9cdbd84dca098b6468e4eb39f17a15c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SelectCursorsPastel_0: 393849072745037728
+      SelectCursorsPastel_1: 7480262455110041415
+      SelectCursorsPastel_10: -5017977447223249139
+      SelectCursorsPastel_11: -7707593378284864630
+      SelectCursorsPastel_12: 196799326594173731
+      SelectCursorsPastel_13: 8801920617965065392
+      SelectCursorsPastel_14: -2223680721737627209
+      SelectCursorsPastel_15: -9132303192532111911
+      SelectCursorsPastel_16: -7393387129735876943
+      SelectCursorsPastel_17: -3242344335411822667
+      SelectCursorsPastel_18: 7203602326955813697
+      SelectCursorsPastel_19: 8569235711679508699
+      SelectCursorsPastel_2: -7883971487085495124
+      SelectCursorsPastel_3: -6941612065853398119
+      SelectCursorsPastel_4: -7215390935226126278
+      SelectCursorsPastel_5: 1314971735368102859
+      SelectCursorsPastel_6: -2831797814801007247
+      SelectCursorsPastel_7: 4698475514235992443
+      SelectCursorsPastel_8: -6375831311173415089
+      SelectCursorsPastel_9: 8090547506105703756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: c408c02b2951af64e919b19d0eb6f7b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5729019362455716346
+    second: SelectCursorsForest_0
+  - first:
+      213: 4005044574524503481
+    second: SelectCursorsForest_1
+  - first:
+      213: 49011300250626756
+    second: SelectCursorsForest_2
+  - first:
+      213: 8180254808098150474
+    second: SelectCursorsForest_3
+  - first:
+      213: -1875580425717991222
+    second: SelectCursorsForest_4
+  - first:
+      213: 8735522242973530501
+    second: SelectCursorsForest_5
+  - first:
+      213: -7554345075628875947
+    second: SelectCursorsForest_6
+  - first:
+      213: 2749332307188232900
+    second: SelectCursorsForest_7
+  - first:
+      213: -2257257593550170029
+    second: SelectCursorsForest_8
+  - first:
+      213: 6625952398395525646
+    second: SelectCursorsForest_9
+  - first:
+      213: -5886576531659099021
+    second: SelectCursorsForest_10
+  - first:
+      213: 6016688621902058266
+    second: SelectCursorsForest_11
+  - first:
+      213: -3813356121194562207
+    second: SelectCursorsForest_12
+  - first:
+      213: -3769829593323261206
+    second: SelectCursorsForest_13
+  - first:
+      213: 4625604470641357630
+    second: SelectCursorsForest_14
+  - first:
+      213: -7348921192413661623
+    second: SelectCursorsForest_15
+  - first:
+      213: 6719624202982949272
+    second: SelectCursorsForest_16
+  - first:
+      213: 438062828184246765
+    second: SelectCursorsForest_17
+  - first:
+      213: -4001408632150268373
+    second: SelectCursorsForest_18
+  - first:
+      213: 3710623794221611741
+    second: SelectCursorsForest_19
+  - first:
+      213: -4282867553942508207
+    second: SelectCursorsForest_20
+  - first:
+      213: -7532938987993356902
+    second: SelectCursorsForest_21
+  - first:
+      213: 3072027563738012372
+    second: SelectCursorsForest_22
+  - first:
+      213: 8895136341244725363
+    second: SelectCursorsForest_23
+  - first:
+      213: 2166774662428065874
+    second: SelectCursorsForest_24
+  - first:
+      213: -2073716887981158764
+    second: SelectCursorsForest_25
+  - first:
+      213: 2139285718857562537
+    second: SelectCursorsForest_26
+  - first:
+      213: -3262912338117492356
+    second: SelectCursorsForest_27
+  - first:
+      213: -5069720892233821773
+    second: SelectCursorsForest_28
+  - first:
+      213: -5302923927896037125
+    second: SelectCursorsForest_29
+  - first:
+      213: 528804065594174368
+    second: SelectCursorsForest_30
+  - first:
+      213: 5852726146307323538
+    second: SelectCursorsForest_31
+  - first:
+      213: 4438281498985864131
+    second: SelectCursorsForest_32
+  - first:
+      213: 2669527197849790431
+    second: SelectCursorsForest_33
+  - first:
+      213: -6006133566050914222
+    second: SelectCursorsForest_34
+  - first:
+      213: 5777416052809566379
+    second: SelectCursorsForest_35
+  - first:
+      213: -1763604740859441847
+    second: SelectCursorsForest_36
+  - first:
+      213: -4522829377219685498
+    second: SelectCursorsForest_37
+  - first:
+      213: -7551835878642187694
+    second: SelectCursorsForest_38
+  - first:
+      213: 411264968913866
+    second: SelectCursorsForest_39
+  - first:
+      213: -1130820713793447767
+    second: SelectCursorsForest_40
+  - first:
+      213: 6897167301361750500
+    second: SelectCursorsForest_41
+  - first:
+      213: 2903757467230552219
+    second: SelectCursorsForest_42
+  - first:
+      213: 6703167747228165041
+    second: SelectCursorsForest_43
+  - first:
+      213: 8531173003582341175
+    second: SelectCursorsForest_44
+  - first:
+      213: -7459084675042427069
+    second: SelectCursorsForest_45
+  - first:
+      213: 3712672694782517348
+    second: SelectCursorsForest_46
+  - first:
+      213: -8619270995998037162
+    second: SelectCursorsForest_47
+  - first:
+      213: 5487834603718605942
+    second: SelectCursorsForest_48
+  - first:
+      213: 770827016494936339
+    second: SelectCursorsForest_49
+  - first:
+      213: -4078928379692587028
+    second: SelectCursorsForest_50
+  - first:
+      213: 6605655296762830151
+    second: SelectCursorsForest_51
+  - first:
+      213: -8472774712174597874
+    second: SelectCursorsForest_52
+  - first:
+      213: 1199734602642583335
+    second: SelectCursorsForest_53
+  - first:
+      213: 1243856788515472987
+    second: SelectCursorsForest_54
+  - first:
+      213: -5639844742741626580
+    second: SelectCursorsForest_55
+  - first:
+      213: -2525993090047788018
+    second: SelectCursorsForest_56
+  - first:
+      213: 1792869626676219770
+    second: SelectCursorsForest_57
+  - first:
+      213: -1842043004772060296
+    second: SelectCursorsForest_58
+  - first:
+      213: -7044161708457092278
+    second: SelectCursorsForest_59
+  - first:
+      213: 3945229246893151839
+    second: SelectCursorsForest_60
+  - first:
+      213: -7229422567576529895
+    second: SelectCursorsForest_61
+  - first:
+      213: 7416729000399856114
+    second: SelectCursorsForest_62
+  - first:
+      213: -3117011579677352706
+    second: SelectCursorsForest_63
+  - first:
+      213: -483318086487136014
+    second: SelectCursorsForest_64
+  - first:
+      213: -6774704669978554063
+    second: SelectCursorsForest_65
+  - first:
+      213: -6786510505958955097
+    second: SelectCursorsForest_66
+  - first:
+      213: 7909150638839702004
+    second: SelectCursorsForest_67
+  - first:
+      213: -922387079835312557
+    second: SelectCursorsForest_68
+  - first:
+      213: 769495808340126537
+    second: SelectCursorsForest_69
+  - first:
+      213: -4618609107838475324
+    second: SelectCursorsForest_70
+  - first:
+      213: 973870087241169315
+    second: SelectCursorsForest_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SelectCursorsForest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1028aa1c0918f40800000000000000
+      internalID: 5729019362455716346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5732622d6c49730800000000000000
+      internalID: 4005044574524503481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca2b65948f1ea000800000000000000
+      internalID: 49011300250626756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a481fd8386a168170800000000000000
+      internalID: 8180254808098150474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac837614a8998f5e0800000000000000
+      internalID: -1875580425717991222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589f5fb723fca3970800000000000000
+      internalID: 8735522242973530501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5b68ad23992790800000000000000
+      internalID: -7554345075628875947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2b573ba27972620800000000000000
+      internalID: 2749332307188232900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35893e99d2c9ca0e0800000000000000
+      internalID: -2257257593550170029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a430db99c14fb50800000000000000
+      internalID: 6625952398395525646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374fe4735ddae4ea0800000000000000
+      internalID: -5886576531659099021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a135b908c629f7350800000000000000
+      internalID: 6016688621902058266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16df222dfcc341bc0800000000000000
+      internalID: -3813356121194562207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2363255ffdeabc0800000000000000
+      internalID: -3769829593323261206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33790032c2713040800000000000000
+      internalID: 4625604470641357630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946f7db9c13630a90800000000000000
+      internalID: -7348921192413661623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8918aea4c96e04d50800000000000000
+      internalID: 6719624202982949272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCursorsForest_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 9, z: 8, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9993f32df441600800000000000000
+      internalID: 438062828184246765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be77246cddca0cc4da913681a0738579
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SelectCursorsForest_0: 5729019362455716346
+      SelectCursorsForest_1: 4005044574524503481
+      SelectCursorsForest_10: -5886576531659099021
+      SelectCursorsForest_11: 6016688621902058266
+      SelectCursorsForest_12: -3813356121194562207
+      SelectCursorsForest_13: -3769829593323261206
+      SelectCursorsForest_14: 4625604470641357630
+      SelectCursorsForest_15: -7348921192413661623
+      SelectCursorsForest_16: 6719624202982949272
+      SelectCursorsForest_17: 438062828184246765
+      SelectCursorsForest_2: 49011300250626756
+      SelectCursorsForest_3: 8180254808098150474
+      SelectCursorsForest_4: -1875580425717991222
+      SelectCursorsForest_5: 8735522242973530501
+      SelectCursorsForest_6: -7554345075628875947
+      SelectCursorsForest_7: 2749332307188232900
+      SelectCursorsForest_8: -2257257593550170029
+      SelectCursorsForest_9: 6625952398395525646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
